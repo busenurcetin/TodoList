@@ -14,7 +14,6 @@
   - [Proje Durumu](#proje-durumu)
   - [Bilgilendirme](#bilgilendirme)
   - [İletişim](#i̇letişim)
-  - [License](#license)
 
 
 ## Genel Bilgi
