@@ -31,7 +31,7 @@ Projeyi klonladıktan sonra live server kullanarak localinizde çalıştırabili
 
 
 ## Projeye Bakış
-![Bakış](images/image.jpeg)
+![Bakış](https://github.com/busenurcetin/TodoList/assets/110244548/ac41dae4-d527-4fa6-9306-00b99f74f3de)
 
 
 ## Proje Durumu
