@@ -122,6 +122,7 @@ taskInput.addEventListener("keyup", e => {
 });
 
 
+/*
 const body = document.querySelector("body");
 const black = document.querySelector("#black");
 const yellow = document.querySelector("#yellow");
@@ -142,7 +143,27 @@ green.addEventListener("click", () => {
 
 red.addEventListener("click", () => {
   body.style.background = "#f00";
-})
+}) */
+
+const colors = {
+    black: "#000",
+    yellow: "#ff0",
+    green: "#0f0",
+    red: "#f00"
+  };
+
+  const body= document.querySelector("body")
+  
+  function changeBackgroundColor(color) {
+    body.style.background = color;
+  }
+  
+  for (const color in colors) {
+    const button = document.querySelector(`#${color}`);
+    button.addEventListener("click", () => {
+      changeBackgroundColor(colors[color]);
+    });
+  }
 
 
 
