@@ -1,4 +1,4 @@
-# Meme Generator
+# Todo List
 
 > Bu projeyi JavaScript pratiği yapmak için oluşturdum.
 
@@ -40,3 +40,6 @@ Proje bitti.
 
 ## Bilgilendirme
 - Bu proje JavaScript'te pratik yapmak amacıyla oluşturuldu.
+
+## İletişim
+[Twitter - @busenurcetin16](https://twitter.com/busenurcetin16)
